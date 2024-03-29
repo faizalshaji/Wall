@@ -1,0 +1,6 @@
+@Wall.Api_HostAddress = http://localhost:5254
+
+GET {{Wall.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
